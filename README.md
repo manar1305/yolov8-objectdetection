@@ -15,7 +15,8 @@ To get started with the project, follow these steps:
 - ```bash
    pip install ultralytics
 - then Import YOLO in your Python code:
-- from ultralytics import YOLO
+```bash
+pip install ultralytics
 
 ### Installation:
 1. Clone this repository: `git clone https://github.com/manar1305/yolov8-objectdetection.git`
