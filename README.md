@@ -6,6 +6,10 @@ This project utilizes YOLOv8, a computer vision model, for real-time vehicle det
 ## Usage:
 The YOLOv8 Vehicle Detection Project is designed for real-time monitoring of highway traffic. It offers accurate vehicle detection, tracking, and counting, making it a valuable tool for traffic management and analysis.
 
+###  Maintainers:
+
+- [Manar Belmokaddem](https://github.com/manar1305)
+
 ## Getting Started:
 To get started with the project, follow these steps:
 
@@ -15,7 +19,6 @@ To get started with the project, follow these steps:
 - ```bash
    pip install ultralytics
 - Then Import YOLO in your Python code
-
 
 ## Installation
 
