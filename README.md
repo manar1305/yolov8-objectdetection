@@ -14,14 +14,24 @@ To get started with the project, follow these steps:
 - [YOLOv8] : YOLOv8's Python interface allows for seamless integration into your Python projects, making it easy to load, run, and process the model's output, install it using:
 - ```bash
    pip install ultralytics
-- then Import YOLO in your Python code:
+- Then Import YOLO in your Python code:
+- '''bash
+   from ultralytics import YOLO
+
+
+## Installation
+
+To clone this repository and install its dependencies, follow these steps:
+
 ```bash
-pip install ultralytics
+# Clone this repository
+git clone https://github.com/manar1305/yolov8-objectdetection.git
 
-### Installation:
-1. Clone this repository: `git clone https://github.com/manar1305/yolov8-objectdetection.git`
-2. Navigate to the project directory: `cd yolov8-objectdetection`
-3. Install dependencies: `pip install -r requirements.txt`
+# Navigate to the project directory
+cd yolov8-objectdetection
 
-## Maintainers:
+# Install dependencies
+pip install -r requirements.txt
+
+### Maintainers:
 - [Manar Belmokaddem](https://github.com/manar1305)
